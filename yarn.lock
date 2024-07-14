@@ -933,6 +933,17 @@
     hash.js "^1.0.0"
     tslib "^2.0.3"
 
+"@greymass/eosio@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@greymass/eosio/-/eosio-0.7.0.tgz#f68fa78112e205ac7e9baab7417c4e5da217f12d"
+  integrity sha512-eEFwzHPUO+WIIoEMHzaYPXLOklEKIXkjJFQ6iekfYzZ02eupW9RJdk8vr31u36TESVxKnmZ5Xnux613t+FNq2A==
+  dependencies:
+    bn.js "^4.11.9"
+    brorand "^1.1.0"
+    elliptic "^6.5.4"
+    hash.js "^1.0.0"
+    tslib "^2.0.3"
+
 "@greymass/miniaes@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@greymass/miniaes/-/miniaes-1.0.0.tgz#2337a4637edbb49289f3c977c5891bb6bef1ba75"

@@ -34,7 +34,7 @@
         "crypto": false
     },
     "dependencies": {
-        "@greymass/eosio": "^0.6.0",
+        "@greymass/eosio": "^0.7.0",
         "@greymass/miniaes": "^1.0.0",
         "eosio-signing-request": "^2.5.0",
         "fetch-ponyfill": "^7.1.0",
